@@ -1,0 +1,20 @@
+# Local research outputs and private data
+/outputs/
+/work/
+/data/
+/private/
+/research-proposal.md
+
+# Local credentials and settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*
